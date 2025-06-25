@@ -1,0 +1,26 @@
+{
+  "id": "rabbit",
+  "animations": {
+    "idle": {
+      "frames": [5, 5],
+      "loop": true,
+      "speed": 1.0,
+      "offset": [2, 2],
+      "outline": null
+    },
+    "jump": {
+      "frames": [5],
+      "loop": true,
+      "speed": 1.0,
+      "offset": [2, 2],
+      "outline": null
+    },
+    "run": {
+      "frames": [5, 5, 5, 5],
+      "loop": true,
+      "speed": 1.0,
+      "offset": [2, 2],
+      "outline": null
+    }
+  }
+}
